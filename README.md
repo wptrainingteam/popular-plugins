@@ -2,7 +2,8 @@
 
 ## Description
 
-A short paragraph explaining what is covered in the module. This should be text that can be copied and used in a Meetup or workshop description.
+There are over 55,000+ plugins in the official WordPress plugin repository. 
+Here is list of plugins : https://wordpress.org/plugins/browse/popular/ on the actual download numbers from WordPress.org. 
 
 * * *
 
