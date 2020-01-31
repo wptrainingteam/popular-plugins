@@ -25,9 +25,9 @@ Here is list of plugins : https://wordpress.org/plugins/browse/popular/ on the a
 
 ## Screening Questions
 
-*   Quesion 1
-*   Quesion 2
-*   Quesion 3
+*   Question 1
+*   Question 2
+*   Question 3
 
 * * *
 
